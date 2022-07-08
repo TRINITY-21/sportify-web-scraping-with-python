@@ -1,46 +1,77 @@
 [
 	{
-		"name": "Bridges",
-		"link": "/album/4Qw1soNFVQu96dlP7yDBSO",
-		"image": "https://i.scdn.co/image/ab67616d00001e02b0848b34a7da4d887096d486",
-		"year": "Album \u2022 2022"
+		"name": "Minor Earth, Major Sky (Deluxe Edition)",
+		"link": "/album/2aHH87T7YudCAyUieyIAow",
+		"image": "https://i.scdn.co/image/ab67616d00001e02e068bc6fb9cd88446cf1b154",
+		"year": "2019"
 	},
 	{
-		"name": "Only Human (Special Edition)",
-		"link": "/album/1RcwvxkvyE60CTFNagElek",
-		"image": "https://i.scdn.co/image/ab67616d00001e02f035622d8fdf777b23e9a834",
-		"year": "Album \u2022 2018"
+		"name": "Lifelines (Deluxe Edition)",
+		"link": "/album/4e35MgyrUCbN3eyJ8h1PVP",
+		"image": "https://i.scdn.co/image/ab67616d00001e02e8d92ea89097d8462b9eaff8",
+		"year": "2019"
 	},
 	{
-		"name": "Only Human (Deluxe)",
-		"link": "/album/6Vip5A5NmEazvKuxj6GLYf",
-		"image": "https://i.scdn.co/image/ab67616d00001e02f2d671c22b70e01b78a618a8",
-		"year": "Album \u2022 2018"
-	},
-	"30,323,194 monthly listeners",
-	{
-		"popular_song_name": "Where Are You Now",
-		"popular_song_link": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z",
-		"popular_song_viewers": "574,781,709"
+		"name": "MTV Unplugged - Summer Solstice",
+		"link": "/album/55SHqC4ZxSnT0wWQgg9eOY",
+		"image": "https://i.scdn.co/image/ab67616d00001e02d8a2c79bb4e493c53c18c114",
+		"year": "2017"
 	},
 	{
-		"popular_song_name": "Dancing On My Own",
-		"popular_song_link": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ",
-		"popular_song_viewers": "923,869,448"
+		"name": "Cast In Steel",
+		"link": "/album/1qN7aCOMxF4dZzfMwP0zGM",
+		"image": "https://i.scdn.co/image/ab67616d00001e02ba05781b500615f0623bc164",
+		"year": "2015"
+	},
+	"12,379,070 monthly listeners",
+	{
+		"popular_song_name": "Take on Me",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e02e8dd4db47e7177c63b0b7d53",
+		"popular_song_viewers": "1,143,295,720"
 	},
 	{
-		"popular_song_name": "You Are The Reason",
-		"popular_song_link": "https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B",
-		"popular_song_viewers": "763,596,481"
+		"popular_song_name": "The Sun Always Shines on T.V.",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e02e8dd4db47e7177c63b0b7d53",
+		"popular_song_viewers": "57,733,936"
 	},
 	{
-		"popular_song_name": "Rain In Ibiza",
-		"popular_song_link": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4",
-		"popular_song_viewers": "23,439,573"
+		"popular_song_name": "Hunting High and Low",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e02e8dd4db47e7177c63b0b7d53",
+		"popular_song_viewers": "56,782,943"
 	},
 	{
-		"popular_song_name": "You Are The Reason - Duet Version",
-		"popular_song_link": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6",
-		"popular_song_viewers": "182,826,373"
+		"popular_song_name": "Crying in the Rain",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e0286cb1a2cbf7441898ac70501",
+		"popular_song_viewers": "47,840,669"
+	},
+	{
+		"popular_song_name": "Take On Me - 2017 Acoustic",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e02db1496b5e1d605c2fd7d70d9",
+		"popular_song_viewers": "37,428,856"
+	},
+	{
+		"popular_song_name": "Take On Me - MTV Unplugged",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e02d8a2c79bb4e493c53c18c114",
+		"popular_song_viewers": "54,817,708"
+	},
+	{
+		"popular_song_name": "Stay on These Roads",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e0210816799318a67035593e8df",
+		"popular_song_viewers": "32,903,790"
+	},
+	{
+		"popular_song_name": "You Are the One",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e0210816799318a67035593e8df",
+		"popular_song_viewers": "21,404,194"
+	},
+	{
+		"popular_song_name": "Take on Me - Kygo Remix",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e02abdc9483f6046d64623515bc",
+		"popular_song_viewers": "42,937,682"
+	},
+	{
+		"popular_song_name": "I've Been Losing You",
+		"popular_song_image": "https://i.scdn.co/image/ab67616d00001e029126fb3b1b0c4ec47ab659b5",
+		"popular_song_viewers": "15,730,604"
 	}
 ]
